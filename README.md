@@ -1,7 +1,5 @@
 # EDA_FIFA-20
 
-EDA_Wine data analysis
-
 ## Part I) Introdution 
 ## Part I)  A) Load the library
             # Import required libraries such as numpy, pandas, matplotlib, seaborn, etc.
